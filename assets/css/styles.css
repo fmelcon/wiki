@@ -25,21 +25,20 @@ body{
     border-right: solid;
     border-color: rgb(18, 134, 134);
 }
-
-#navlink{
+.nav-link{
     padding: 0.3rem;
     border:2px solid rgb(18, 134, 134);
     text-decoration: none;
     color: rgb(35, 112, 131);
 }
 
-#navlink:hover{
+.nav-link:hover{
     color: rgba(255, 255, 255, 0.856);
     background-color: rgb(46, 65, 94);
 }
 
 header{
-    text-shadow: 5px 1px 4px rgba(14, 17, 19, 0.199);
+    text-shadow: 5px 1px 4px rgba(14, 17, 19, 0.116);
     font-size: 30px;
     padding: 1rem;
     font-weight: 600;
